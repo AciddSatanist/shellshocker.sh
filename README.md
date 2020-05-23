@@ -24,3 +24,4 @@ Input_Port: <YourTargetsPort> for example: "80"
 Input_Directory: <YourTargets VulnerableDiretory> for example: "cgi-bin"
 Input_LocalHost: <YourIP> for example: "192.168.1.45"
 Input_LocalPort: <YourListenPort> for example: "1234"
+  
